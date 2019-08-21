@@ -26,3 +26,14 @@ func TestProductIsPalindrome(t *testing.T) {
 
 	})
 }
+
+func TestGetLargestPalindrome(t *testing.T) {
+	t.Run("largest for 2 digits", func(t *testing.T) {
+		got := GetLargestPalindrome(2)
+		want := 9009
+
+		if got != want {
+			t.Errorf("Got %d, wanted %d", got, want)
+		}
+	})
+}
