@@ -22,12 +22,16 @@ func GetLargestPalindrome(numSize int) (largest int) {
 	min := math.Pow10(numSize - 1)
 	max := math.Pow10(numSize) - 1
 
-	for i := min; i <= max; i++ {
-		for j := min; j <= max; j++ {
-			num := int(i * j)
-			if IsPalindrome(num) && num > largest {
-				largest = num
+	for i := max; i >= min; i-- {
+		for j := max; j >= min; j-- {
+			product := int(i * j)
+			if IsPalindrome(product) && product > largest {
+				largest = product
 			}
+			if product < largest {
+				break
+			}
+
 		}
 	}
 
