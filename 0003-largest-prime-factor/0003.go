@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"math"
+	"time"
 )
 
 func GetFactors(num int) []int {
@@ -35,7 +36,13 @@ func GetLargestPrimeFactor(num int) (largest int) {
 	return largest
 }
 
+func timeIt(start time.Time) {
+	elapsed := time.Since(start)
+	fmt.Printf("Completed in %s\n", elapsed)
+}
+
 func main() {
+	defer timeIt(time.Now())
 	largestPrimeFactor := GetLargestPrimeFactor(600851475143)
-	fmt.Printf("Largest prime factor of %d: %d", 600851475143, largestPrimeFactor)
+	fmt.Printf("Largest prime factor of %d: %d\n", 600851475143, largestPrimeFactor)
 }
