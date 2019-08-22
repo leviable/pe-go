@@ -1,8 +1,10 @@
 package main
 
 import (
+	"fmt"
 	"math"
 	"strconv"
+	"time"
 )
 
 func IsCandidate(candidate int) bool {
@@ -50,4 +52,15 @@ func FindNthPrime(nthPrime int) int {
 		}
 
 	}
+}
+
+func timeIt(start time.Time) {
+	elapsed := time.Since(start)
+	fmt.Printf("Completed in %s\n", elapsed)
+}
+
+func main() {
+	defer timeIt(time.Now())
+	prime := FindNthPrime(10001)
+	fmt.Printf("Nth prime is: %d\n", prime)
 }
