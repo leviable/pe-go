@@ -33,3 +33,14 @@ func TestIsPrime(t *testing.T) {
 
 	}
 }
+
+func TestFindNthPrime(t *testing.T) {
+	t.Run("Find the 6th prime", func(t *testing.T) {
+		got := FindNthPrime(6)
+		want := 13
+
+		if got != want {
+			t.Errorf("Got %d, want %d", got, want)
+		}
+	})
+}

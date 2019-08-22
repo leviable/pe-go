@@ -35,3 +35,19 @@ func IsPrime(candidate int) bool {
 	}
 	return true
 }
+
+func FindNthPrime(nthPrime int) int {
+	start := 1
+	primeCount := 0
+	for {
+		start++
+		if IsPrime(start) {
+			primeCount++
+		}
+
+		if primeCount == nthPrime {
+			return start
+		}
+
+	}
+}
