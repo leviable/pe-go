@@ -30,7 +30,7 @@ func IsPrime(candidate int) bool {
 			return false
 		}
 		max := int(math.Ceil(math.Sqrt(float64(candidate)))) + 1
-		for i := 2; i < max; i++ {
+		for i := 3; i < max; i += 2 {
 			if candidate%i == 0 {
 				return false
 			}
@@ -121,10 +121,6 @@ func FindNthPrimePar(nthPrime int) int {
 			writeChan <- true
 		}(writeChan, readChan, num, primes, counter)
 
-		if num == 86028157 {
-			fmt.Println("***** FINISHED *****")
-		}
-
 		if primes.len() > nthPrime {
 			return primes.get(nthPrime)
 		}
@@ -144,6 +140,6 @@ func timeIt(start time.Time) {
 
 func main() {
 	defer timeIt(time.Now())
-	prime := FindNthPrimePar(5000001)
+	prime := FindNthPrime(6000001)
 	fmt.Printf("Nth prime is: %d\n", prime)
 }
