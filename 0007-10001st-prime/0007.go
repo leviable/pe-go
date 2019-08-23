@@ -56,18 +56,20 @@ func FindNthPrime(nthPrime int) int {
 }
 
 type Primes struct {
-	primes []int
+	lastPrime  int
+	primeCount int
 }
 
 func (p *Primes) write(prime int) {
-	p.primes = append(p.primes, prime)
+	p.lastPrime = prime
+	p.primeCount++
 }
 
 func (p *Primes) len() int {
-	return len(p.primes)
+	return p.primeCount
 }
-func (p *Primes) get(nth int) int {
-	return p.primes[nth-1]
+func (p *Primes) get() int {
+	return p.lastPrime
 }
 
 type Counter struct {
@@ -121,8 +123,8 @@ func FindNthPrimePar(nthPrime int) int {
 			writeChan <- true
 		}(writeChan, readChan, num, primes, counter)
 
-		if primes.len() > nthPrime {
-			return primes.get(nthPrime)
+		if primes.len() >= nthPrime {
+			return primes.get()
 		}
 
 		if first {
@@ -140,6 +142,6 @@ func timeIt(start time.Time) {
 
 func main() {
 	defer timeIt(time.Now())
-	prime := FindNthPrime(6000001)
+	prime := FindNthPrimePar(2000001)
 	fmt.Printf("Nth prime is: %d\n", prime)
 }
