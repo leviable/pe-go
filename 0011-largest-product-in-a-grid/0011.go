@@ -16,7 +16,7 @@ func SumVertical(x, y, sumCount int, grid *[][]int) (sum int) {
 	return sum
 }
 
-func SumDiagonalRight(x, y, sumCount int, grid *[][]int) (sum int) {
+func SumDiagRight(x, y, sumCount int, grid *[][]int) (sum int) {
 	for i := 0; i < sumCount; i++ {
 		val := (*grid)[y+i][x+i]
 		sum += val
@@ -24,7 +24,7 @@ func SumDiagonalRight(x, y, sumCount int, grid *[][]int) (sum int) {
 	return sum
 }
 
-func SumDiagonalLeft(x, y, sumCount int, grid *[][]int) (sum int) {
+func SumDiagLeft(x, y, sumCount int, grid *[][]int) (sum int) {
 	for i := 0; i < sumCount; i++ {
 		val := (*grid)[y+i][x-i]
 		sum += val
