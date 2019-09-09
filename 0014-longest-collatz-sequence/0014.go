@@ -5,6 +5,10 @@ import (
 	"time"
 )
 
+var seqMap = map[int][]int{
+	1: []int{},
+}
+
 type LongestSequence struct {
 	Value  int
 	Length int
@@ -18,16 +22,18 @@ func NextCollatzNum(num int) (next int) {
 	}
 }
 
-func GetCollatzSeq(num int) (seq []int) {
-	if num == 1 {
-		return []int{}
-	}
+func GetCollatzSeq(num int) []int {
 	next := NextCollatzNum(num)
-	return append(GetCollatzSeq(next), next)
+	if _, ok := seqMap[next]; !ok {
+		seq := GetCollatzSeq(next)
+		seqMap[next] = seq
+	}
+	seq := seqMap[next]
+	return append(seq, next)
 }
 
 func GetLongestCollatzSeq(num int) (longest LongestSequence) {
-	for i := 1; i < num+1; i++ {
+	for i := num; i > 0; i-- {
 		seq := GetCollatzSeq(i)
 		newSeq := LongestSequence{i, len(seq) + 1}
 		if newSeq.Length > longest.Length {
@@ -45,4 +51,5 @@ func timeIt(start time.Time) {
 func main() {
 	defer timeIt(time.Now())
 	fmt.Println("Longest sequence is ", GetLongestCollatzSeq(1000000))
+	//fmt.Println("Longest sequence is ", GetCollatzSeq(13))
 }
