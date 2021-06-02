@@ -11,8 +11,8 @@ func TestTemplate(t *testing.T) {
 		num    int
 		expect bool
 	}{
-		{limit: 1, expect: true},
-		{limit: 2, expect: false},
+		{num: 1, expect: true},
+		{num: 2, expect: false},
 	}
 
 	for _, tt := range examples {
