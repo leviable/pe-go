@@ -5,9 +5,9 @@ import (
 	"time"
 )
 
-func PE0000() {
+func PE0000() int {
 
-	return
+	return 0
 }
 
 func timeIt(start time.Time) {

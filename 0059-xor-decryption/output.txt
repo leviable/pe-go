@@ -1,0 +1,48 @@
+Using:  97
+Using:  98
+Using:  99
+Using:  100
+Using:  101
+**************************************************************
+Using key:  101 105 108
+ASCII Sum:  137247
+A<eihrpt1hazyn1zr~q ete1unenouiceuo<ow<oy ~z Tiltn'b<m~ot1e}ybc}ttx a}ptns=<"Uy bim|us1oecuecim1nerupcscpnu|> JSn1hht<sdqs1sf1oecueb<ow<rtianor}lbA:1U y}vt<rtehlh<f~inu0 `iiey dreilerheupy=<a<e}ygprt1yxaneboi~r wsr1hht<ehicy bim1sf1hhxo byrxys1- :<1>( :<1>% :<1>-617 thc?0 ftirt uyptrdb<o<tyy `iaunaeirt<ow<tyy rurrpe=<s~<ty}t1uf1hht<tcie1ou|<ow<tyus1oecueb<ib<oshaxreu0 wno|<ie<ae<oe1hht<qd}dc}tdne1sf1hht<cxnc}y wsl}swb2 _}mtpy=<I1tagy wsux etae<tyy bim1sf1hhxo byrxys1us1} buxet a}re<ow<tyy bmupne1sf1hht<ptni|yttn ~z ete1iclt<wysst<dx}mthec<ib<1*<oc<bh<pdhtxrg1hht<sdq ~z etib<stnito tmupp es b0 xh y}s1hht<rphi~<s`nt9*)1qu}hiapitx se b<t~<11sf1hht<ptni|yttn es ete1xipqeeyr?<I1ki}p bso<sysw1hhph ete1ou|<ow<tyus1oecueb<t~<bt<aalr~di|}ttpy1-.'(4(/4!*6)(2#*4"*4*<ax wno|<mdptxllhunv<tyus1ru|~ec<bh<sxd,1}nu<tyyn1hazunv<tyy bmupne1no~h,1hht<ndqbtn "21%-5(.6$/5)%7(/2"$ xo xrdtyd1lr~xuryd=<wyucy<eilrtosto ete1lecumthec<ow<a1iclt<wysst<dx}mthec<ib<1?<F~pl~ki{ p{axr ete1oa|y bheao se ftirt X<hpx pnrxjeu<ae<tyus1ou|0 X<hpje1xibogyrtx etae<tyy bim1sf1hht<stnito  <+1-/ * :<1>$117  32$* :<1>*2$<+1ytr2 pps~<dtlexs1sn1hht<qd}dc}tdne1sf1hht<cxnc}y.1Ra|ylh0 ete1ou|<ow<tyus1qu}hiapitx se (, vuvto ete1~i`iaunaey 9zodnty<p~kec5 ~z ete1icu|zecynry ~z ete1lecumthec<ow<a1iclt<wysst<dx}mthec<ib<1?<Ax se bumxpac<rt}s~ri{ X<hpje1pizywxoe1~etr p~lt<t~<dthecqiy ete1ou|o ~z ete1ousoe`ieh byrxys1un1khxh1hht<eiloyneo pne1yvtr imsyrb2
+**************************************************************
+Using key:  101 120 112
+ASCII Sum:  129448
+An extract taken from the introduction of one of Euler's most celebrated papers, "De summis serierum reciprocarum" [On the sums of series of reciprocals]: I have recently found, quite unexpectedly, an elegant expression for the entire sum of this series 1 + 1/4 + 1/9 + 1/16 + etc., which depends on the quadrature of the circle, so that if the true sum of this series is obtained, from it at once the quadrature of the circle follows. Namely, I have found that the sum of this series is a sixth part of the square of the perimeter of the circle whose diameter is 1; or by putting the sum of this series equal to s, it has the ratio sqrt(6) multiplied by s to 1 of the perimeter to the diameter. I will soon show that the sum of this series to be approximately 1.644934066842264364; and from multiplying this number by six, and then taking the square root, the number 3.141592653589793238 is indeed produced, which expresses the perimeter of a circle whose diameter is 1. Following again the same steps by which I had arrived at this sum, I have discovered that the sum of the series 1 + 1/16 + 1/81 + 1/256 + 1/625 + etc. also depends on the quadrature of the circle. Namely, the sum of this multiplied by 90 gives the biquadrate (fourth power) of the circumference of the perimeter of a circle whose diameter is 1. And by similar reasoning I have likewise been able to determine the sums of the subsequent series in which the exponents are even numbers.
+Using:  102
+Using:  103
+Using:  104
+**************************************************************
+Using key:  104 111 112
+ASCII Sum:  134848
+Ly hotvcy7tl|ec7fxm-chh7iccrbsunciby bq bye-xf-Ruarr*d `xsy7ch{eoeayrd-ga}rr~; /Se-du`zi~7sheiheu`7rhti}eonvrxz"-LOc7ter ~bm~7ok7sheihd bq rcdgrbtaad]77I-a{r rchytan kxucs,-fudce-bnhophtthslt; ly h{ejvny7eugrhdsdxn-qo7ter hytdee-du`7ok7te~s-de~e~71-< <84-< <89-< <81;7+-rtn9,-`hdth-se}rnid by ye-fulsrlcur bq ye-titlh; ~x yay7ik7ter yeuh7sxz bq yi~7sheihd dd butl~nhs,-qrbz dc lc bych7ter |baieaybrh7ok7ter n~rn{e-qoa{ozd.-Ya`rlt; D7hlae-qoxyd-chlc ye-du`7ok7te~s-de~e~7i~7a-diuch-gac bq ye-dqxvrh7ok7ter }rrdzeyrr-xf-chh7cdecar zo~r i~a`rthe dd <, be on }bty~nj7ter ~bm-xf-chdd ~rrdrs-rqxvl-co-d,-~t-a~7ter vtdx ~fry?6$7mx{tdgldrd-uy-d yx <7ok7ter }rrdzeyrr-co-chh7ddvmhce9 D7wd{l-doby ~oz7tevt-chh7sxz bq yi~7sheihd yx or lgpxxdzayrlt71#!49.39'6;/4?%69$69, lyd-qrbz `bly~panicp yi~7nxzbhe on ~~x!7acs yec7tl|icp ye-dqxvrh7rbxt!7ter cbmorr-$.<#18.2;"38/9:.3?$8-~s-~nirei7pxdxtei; zin hoprs~rs-chh7phei`rthe bq l7cdecar zo~r i~a`rthe dd <9 Kxlaxwdyg-vgl~n-chh7slze-dthgs-uy-`hdth-^ evd-vr~vhs lc yi~7sxz,-^ evvh7dddcbaerd-chlc ye-du`7ok7ter ~rrdrs-& &71"&6-< <88<7+-&/?"6-< <86?" &7eyt.-vl~x irphyd~7oc7ter |baieaybrh7ok7ter n~rn{e#7Nlzean,-chh7sxz bq yi~7mx{tdgldrd-uy-.0-pi{rs-chh7bdfulsrlce-?fbbry }xwhe)-xf-chh7cdecxzfheecte-xf-chh7phei`rthe bq l7cdecar zo~r i~a`rthe dd <9 Lyd-uy-di`~lle ra~xndyg-^ evvh7ld|ez~sh7bhrn-vbar yx irthemdye-chh7sxzs-xf-chh7sxushfuhyt-de~e~7ic7we~ce7ter hopbyeccs-vrh7e{rn-yu`ued.
+Using:  105
+Using:  106
+Using:  107
+Using:  108
+Using:  109
+Using:  110
+Using:  111
+Using:  112
+Using:  113
+Using:  114
+Using:  115
+**************************************************************
+Using key:  115 100 113
+ASCII Sum:  137783
+Wr!sdud}bb<uwwdx<gdsl6his<hxhsyxtuhhyr!yz!yrd6sg6Ytzys1o!{srb<bspdtn`bye6l`fyse0!4Xd6ot{qhe<rsnhsnt{<sshfnnu}scq#6GNx<u~y!eile<np<rsnhso!yz!dyblsy`zo\,<H6t``y!dybsruze!pstxx-6mthd6iosdqsusxmo0!wr!spdq}ob<dnlssorso6znd<u~y!srund6ot{<np<u~ur6oddude<067!'3567!'3867!'30 <*6yuu2-6kii6xdfyoro!yr!btd6mtwxswhtdy!yz!btd6hdms0!es!bt`b<hp<u~y!bnts<rcq!yz!bthe<rsnhso!o!y~uwuosx-6zsyq!h!wh!yrbs<u~y!gi`rn`biss<np<u~y!uusupd6znzpnao/6R`{ymo0!_<iwjd6zncre6hiwh!btd6ot{<np<u~ur6oddude<he<`6ohnhi6l`dh!yz!btd6opc}ss<np<u~y!fysqdbys6sg6his<bnbzy!atney!ru`{yusn!o!''!yn!te!fiubuoq<u~y!eil6sg6hio!eysyr6ypc}m6hn6o-6uu6t`e<u~y!d}us!emsb47?<lcpulmye6~x6o!bs!'<np<u~y!fysqdbys6hn6his<e}lshdd2!_<vpm6onyr!etna<u~}u6his<rcq!yz!bthe<rsnhso!bs!ty!wlqdsyq`bymo<08*5"%2",7 $5$.7"/7"'!wre6zsyq!{imbuqzehx{!bthe<ocqcsn!te!euy:<`xx!btdx<uwwhx{!btd6opc}ss<sysu:<u~y!xiltys6//'(0#%3 )2#$8!%2$/96ur6uorydr<qdsecdr0!athut!sdqdyreyr6his<qsnh{yusn!yz!w<bnbzy!atney!ru`{yusn!o!'2!Psmzsvrf6}fwuo6his<rwqd6ouslr6~x6kii6U!~}e6}sduwsx!wh!bthe<rcq-6U!~}ws<eobyjddye6hiwh!btd6ot{<np<u~y!eysyr6-!=<09-767!'39'<*6-.$)767!'37$)!=<db/6}mes!ryqsree<nx<u~y!gi`rn`biss<np<u~y!uusupd8<Owqdze-6his<rcq!yz!bthe<lcpulmye6~x6%16{h`yr6his<cmtwxswhd64gyisbt!fsvsn(6sg6his<bnbcqgsndxd6sg6his<qsnh{yusn!yz!w<bnbzy!atney!ru`{yusn!o!'2!Wre6~x6oh{umwn!dy`esorf6U!~}ws<mwdaurs<csyo6}czy!bs!ryusnlrd6his<rcqr6sg6his<rc~rsmtsru6oddude<hx<v~ub~<u~y!sdqyrdxhr6}ss<d`yo6rt{~ddo/
+Using:  116
+Using:  117
+Using:  118
+Using:  119
+Using:  120
+**************************************************************
+Using key:  120 112 119
+ASCII Sum:  136546
+\f'xpsoidi(s|cbs(aogj=|ox(ns|urlr~|nrf'rn'rfb=ga=Mrqmu:{'pgti(dxdbzfimc=xfmmun$'?Lb={rpenn(txznxzrp(uxknmzh~iuhe%=SHs(sum'n}jn(h{(txznx{'rn'omdtxurkfq{Z'(N=`fkm'omdxfsqq'{grsl+=yrt|b=}ixpwxksxlkd$'|f'xdbziii(bexux{ttgi=nho(sum'xfstzb={rp(h{(suat={boabn(6=#','3=#','>=#','6+(,=ms~&+=otko=lbmmiy{'rf'i`b=yr|lu||rom'rn'i`b=knokkx$'ng'i`fi(n{(sum'izrx(the'rn'i`nn(txznx{'t{'rjs|aixl+=nure't|'||'rfdx(sum'l}fyzfi}ux(h{(sum'~au~db=nhqdhj{)=Ffpmkd$'T(o|~b=nhhfc=|o||'i`b={rp(h{(suat={boabn(nn(f={ne|o=xfo|'rn'i`b={vhiux(h{(sum'mmutebimu=ga=|ox(dtzdqm'j`hnm'yafpmsxz't{',3'rz'q'm}siaiz(sum'n}j=ga=|ot{'nmutmt=mvhik=|h={+=as=`fn(sum'oistg'nyui 14(jhdstxktmc=j~={'ig',(h{(sum'mmutebimu=|h=|ox(ctijx|bo&'T(ptdk={hrf'n`hj(suis=|ox(the'rn'i`nn(txznx{'ig'm'|xwogtefimkd(63>3)14)81+03/:1);1)3'|fc=nure'p}kiawqqnso'i`nn(iheexz'q'na1(fsl'i`bs(s|cnso'i`b={vhiux(urgs1(sum's}jmu=;),<6(15+=4(0>*14/;?=at=aiymby(wogchkby$'j`n~`'xpwomtnmt=|ox(wxznpmsxz'rn'|(dtzdqm'j`hnm'yafpmsxz't{',&'[gkqgptf`=i`|ai=|ox(t|eb={sxxt=j~=otko=A'uic=iuoaqxl'||'i`nn(the+=A'uiqx(ct{dr~bomc=|o||'i`b={rp(h{(sum'nmutmt=9'6(6291=#','?,(,=9(/=1=#','1/='6(bik)=ikng'ymwxfcn(hs(sum'l}fyzfi}ux(h{(sum'~au~db3(I|ebqq+=|ox(the'rn'i`nn(jhdstxktmc=j~=17=onkmt=|ox(etyr|lu||b= ar}ui`'mgpxz.=ga=|ox(dtzdheaxzbskb=ga=|ox(wxznpmsxz'rn'|(dtzdqm'j`hnm'yafpmsxz't{',&'\fc=j~={npak|z'omfngitf`=A'uiqx(ktcbjatx(exmi=ieqm'ig'ymsxzjtfb=|ox(thet=ga=|ox(thjtxyrxfs={boabn(ns(puadu(sum'xpwrfbs|t=iux(bkmi=frpjbo{)
+Using:  121
+Using:  122
+0000:  0
+Completed in 4.048841206s
