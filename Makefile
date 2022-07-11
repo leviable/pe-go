@@ -15,9 +15,44 @@ get-%:
 
 .PHONY: get-next
 get-next:
-	# Fetch the next problem in chronological order
-	# Can deduce the next in line, then call `get-1234`
+	# 1) Get top level dir names in root folder
+	# 2) Match on `####-*$` and ignore non-matches
+	# 3) Split at `-` and keep numbers
+	# 4) Sort numbers and check sequence until a gap is found
+	# 5) Zero pad if necessary
+	# 6) Call `get-####` with the found number
 	echo "Fetching the next problem"
+
+# DIRECTORIES := $(patsubst %-,%,$(notdir $(wildcard $(MAKEFILE_PATH)/*)))
+DIRECTORIES := $(filter %-*,$(notdir $(wildcard $(MAKEFILE_PATH)/*)))
+PROBLEMS := $(sort $(foreach dir,$(DIRECTORIES),$(firstword $(subst -, ,$(dir)))))
+
+.PHONY: foo
+foo:
+	echo $(PROBLEMS)
+
+.PHONY: bar
+bar:
+	@echo $(subst -, ,1234-abc123)
+	@echo "************************************"
+	@echo $(sort $(foreach dir,1234-abc123 5678-xyz567,$(firstword $(subst -, ,$(dir)))))
+
+.PHONY: baz
+baz:
+	@echo $(call numonly,$(subst -,$(COMMA),1234-abc123))
+	@echo "************************************"
+	@echo $(filter %-%,1234-abc123 5678-xyz567)
+
+letters:=a b c
+numbers:=1 2 3 4
+
+define GEN_RULE
+$(letter).dat.$(number) : $(letter).rlt.$(number)
+    ./rlt2dat $$< $$@
+endef
+
+spam:
+	$(foreach number,$(numbers), $(foreach letter,$(letters), $(eval $(GEN_RULE)) ) )
 
 .PHONY: run-%
 run-%:
